@@ -1,0 +1,1 @@
+# blazor-wasm-static-assets
